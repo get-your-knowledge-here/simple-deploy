@@ -1,0 +1,26 @@
+{
+  "name": "@gykh/simple-deploy",
+  "version": "1.0.0",
+  "description": "Simple app for deployment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/get-your-knowledge-here/simple-deploy.git"
+  },
+  "author": {
+    "name": "Sylvester Das",
+    "email": "sylvester.das@gmail.com",
+    "url": "https://www.sylvesterdas.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/get-your-knowledge-here/simple-deploy/issues"
+  },
+  "homepage": "https://github.com/get-your-knowledge-here/simple-deploy#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
